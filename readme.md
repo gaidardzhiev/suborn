@@ -29,6 +29,9 @@ The central observation is that this architecture separates capability from inte
 
 - [tex2pdf.sh](./tex2pdf.sh) an interactive POSIX shell utility that builds the LaTeX source
 
+## Ethics
+This paper is a threat model. Its purpose is to name and analyze a threat class so that defenders can reason about it. The architecture described is analyzed as a design problem, not demonstrated as a working attack. No implementation is provided. The author believes that naming a threat clearly is a precondition for addressing it, and that the alternative, leaving it unnamed in the public literature while it remains conceivable to any sufficiently motivated adversary, serves no one.
+
 ## License
 
 The paper is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by Ivan Gaydardzhiev, 2026.
