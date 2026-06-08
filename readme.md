@@ -2,7 +2,7 @@
 
 *Subvert. Observe. Research. Never deploy.*
 
-This repository contains the paper [**Suborn: A Threat Model for LLM-Orchestrated Firmware Agents**](./suborn.pdf) by Ivan Gaydardzhiev (2026).
+This repository contains the paper [**Suborn: A Threat Model for LLM-Orchestrated Firmware Agents**](./suborn.pdf) by [Ivan Gaydardzhiev](https://github.com/gaidardzhiev) (2026).
 
 ## On the Nature of the Threat
 
